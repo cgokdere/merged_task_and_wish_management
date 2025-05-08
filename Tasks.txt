@@ -1,0 +1,11 @@
+T	1	Math Homework	Solve pages 10 to 20	2025-03-01	15:00	10
+T	2	School Picnic Preparation	Goksu Park	2025-03-05	10:00	2025-03-05	12:00	10
+F	3	Clean Room	Tidy up desk and closet	2025-03-02	11:00	5
+T	0	Read a Book	Read 30 pages from favorite book	2025-03-03	17:00	7
+F	5	Water the Plants	Don’t forget the balcony ones	2025-03-04	09:00	3
+T	105	Do Science Project	Prepare volcano model	2025-03-06	14:00	2025-03-06	16:00	15
+F	106	Practice Piano	Etude No. 3 and 5	2025-03-07	17:00	2025-03-07	18:00	6
+T	107	Help with Groceries	Carry and place items	2025-03-08	13:00	2025-03-08	13:30	4
+F	108	Call Grandma	Chat for 20 minutes	2025-03-09	20:00	2
+T	109	Make Bed	Every morning this week	2025-03-10	08:00	5
+T	110	Draw a Picture	Of your favorite animal	2025-03-11	15:00	2025-03-11	16:00	5

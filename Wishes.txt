@@ -1,0 +1,11 @@
+0	Lego Set	Price:150TL, Brand:LEGO
+1	Go to the Cinema	Price:100TL	2025-04-16	14:00	2025-04-17	16:00
+2	WATCH TV	AT HOME
+3	GO TO PARK	NOTHING	2025-04-15	22:00	2025-04-15	23:00
+106	Play Station 5	Price: 500TL, Brand: Sony
+107	Go to Zoo	With family	2025-03-10	10:00	2025-03-10	14:00
+108	Buy New Book	Harry Potter Series
+109	Visit Grandparents	Stay overnight	2025-04-12	17:00	2025-04-17	12:00
+110	New Bicycle	Price: 750TL, Color: Red
+111	Movie Night	Watch animated movies at home	2025-03-15	20:00	2025-03-15	22:30
+112	Camping Trip	With friends in backyard	2025-03-20	16:00	2025-03-21	10:00
